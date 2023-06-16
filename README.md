@@ -2,7 +2,7 @@
 
 ## Description
 
-Built a page to show tour place picture cards and get used to react.
+Built a page to show some touristic places picture cards and get used to react.
 
 ### Topics are to be covered;
 
